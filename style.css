@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Raleway:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    color: rgb(0, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
+
+body{
+    background-color: 
+    rgb(198, 222, 241)    ;
+}
+img {
+    margin-top: 45px;
+    width: 690px;
+    height: 388px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.bdetails{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 250px;
+    
+}
+div.bdetails {
+    box-sizing: border-box;
+    padding: 10px;
+    border: 1px solid rgb(4, 1, 1);
+    border-radius: 2px;
+    position: relative;
+    left: 41.9%
+}
+.para1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    letter-spacing: 1.8px;
+    line-height: 20px;
+}
+.para2{
+    letter-spacing: 1.8px;
+    line-height: 20px;
+}
+.para3{
+    letter-spacing: 1.8px;
+    line-height: 20px;
+}
+.para4{
+    letter-spacing: 1.8px;
+    line-height: 20px;
+}
+
+a{
+    color: #2511ad;
+    text-decoration: none;
+}
+.para{
+    font-weight: lighter;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 1.2px;
+    width: 1483px;
+    margin-left: 36px;
+    position: absolute;
+}
+
+.sd{
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
